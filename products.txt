@@ -1,0 +1,4 @@
+Witch's cauldron,500,103,With a cauldron, the witches can make poisonous drinks,Decorations
+Frankenstein costume,850,204,Become the Frankenstein monster and scare your friends,Clothes
+Witch costume,1000,102,Witch costume with broom and nose,Clothes
+Spider with cobweb,250,304,spider that can be tied up anywhere with cobweb,Accessories
